@@ -1,4 +1,6 @@
 # Anonymous Chat Bot
+![Chat Match Bot](pingpong.jpg)
+
  for anonymous chat with gender and age preferences.
 ---
 ## 🔎 How It Works
