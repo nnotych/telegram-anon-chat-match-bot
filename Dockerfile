@@ -7,7 +7,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY bot.py .
 
-ENV TOKEN='"7712103509:AAGoxMdX7byQUDMkEKwiwnEp0HAVdWBa-vo"'
+ENV TOKEN='""'
 
 
 CMD ["python", "bot.py"]
